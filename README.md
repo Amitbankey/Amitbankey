@@ -69,4 +69,4 @@
 - Exploring dashboard building in *Power BI* and *Tableau*
 
 ---
-<img src="https://raw.githubusercontent.com/amitbankey/amitbankey/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
