@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amit Bankey</h1>
-<h3 align="center">Aspiring Data Analyst | VIT Bhopal | Passionate about turning data into insights</h3>
+<h3 align="center">Aspiring AI Engineer | VIT Bhopal | Passionate about building intelligent systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analyst+in+the+making...;Python+%7C+SQL+%7C+Excel+%7C+Tableau+%7C+Power+BI;Transforming+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+making...;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Building+intelligent+and+data-driven+solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 I’m a student at *VIT Bhopal University*, passionate about using data to uncover insights and drive decisions.  
-🔎 Currently building my skills in *data analysis, visualization*, and problem-solving.  
-📊 Future goal: become a skilled *Data Analyst* in a leading tech-driven company.  
+🎓 I’m a student at *VIT Bhopal University*, passionate about creating AI-powered solutions.  
+🤖 Currently learning and applying concepts in *Machine Learning, Deep Learning, and MLOps*.  
+🚀 Future goal: become a skilled *AI Engineer* in a leading tech-driven company.  
 
 ---
 
@@ -19,12 +19,15 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -60,13 +63,13 @@
 
 ### 🔖 Fun Fact
 
-> I love finding patterns in data the way others find meaning in stories 📊✨
+> I love training AI models the way others love training Pokémon 🤖✨
 
 ---
 
 ### 🧠 Currently Working On
-- Practicing real-world datasets using *Excel, **SQL, and **Python*
-- Exploring dashboard building in *Power BI* and *Tableau*
+- Hands-on projects in *Machine Learning* and *Deep Learning*  
+- Exploring *NLP, Computer Vision*, and *Generative AI*  
+- Learning deployment with *MLOps tools (Docker, MLflow, AWS)*  
 
 ---
-
