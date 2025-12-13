@@ -1,75 +1,115 @@
 <h1 align="center">Hi 👋, I'm Amit Bankey</h1>
-<h3 align="center">Aspiring AI Engineer | VIT Bhopal | Passionate about building intelligent systems</h3>
+<h3 align="center">Aspiring AI & Data Engineer | VIT Bhopal University | Placement-Focused Fresher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+making...;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Building+intelligent+and+data-driven+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineering+Foundations;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;DSA+%7C+System+Design+%7C+SQL;Building+real-world%2C+interview-ready+projects" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 I’m a student at *VIT Bhopal University*, passionate about creating AI-powered solutions.  
-🤖 Currently learning and applying concepts in *Machine Learning, Deep Learning, and MLOps*.  
-🚀 Future goal: become a skilled *AI Engineer* in a leading tech-driven company.  
+🎓 3rd-year engineering student at **VIT Bhopal University**, preparing for **product-based company roles**.  
+🚀 Focused on building a **strong foundation in AI, Data Analysis, and System Fundamentals** with a clear placement strategy.  
+🧠 I believe in **structured learning, consistency, and hands-on projects** over certificates.
 
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+I am actively strengthening my skills in **Machine Learning, Deep Learning, LLMs, SQL, DSA, and ML System Design**, while maintaining daily problem-solving practice and project refinement. My goal is to transition smoothly from **fundamentals → projects → interviews**.
 
 ---
 
-### 📈 GitHub Stats & Achievements
+## 🧩 What Differentiates Me as a Fresher
+
+- ✅ Strong focus on **problem-solving (DSA + LeetCode)**
+- ✅ Projects designed like **real-world systems**, not just notebooks
+- ✅ Emphasis on **clean code, documentation, and reproducibility**
+- ✅ Interview-oriented learning with continuous revision
+- ✅ Clear understanding of **why and how** models work
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔹 Programming & Core CS
+- **Python (Advanced)** – OOPs, clean code, optimization  
+- **C++** – DSA & problem solving  
+- **SQL** – joins, subqueries, window functions, optimization  
+- **Git & GitHub** – version control, project documentation  
+
+### 🔹 Data Analysis & ML
+- NumPy, Pandas, Matplotlib  
+- Scikit-learn  
+- Feature engineering, EDA, model evaluation  
+
+### 🔹 Machine Learning & Deep Learning
+- Supervised & Unsupervised ML  
+- Neural Networks (ANN, CNN, RNN, LSTM)  
+- TensorFlow / Keras, PyTorch (working knowledge)  
+
+### 🔹 NLP & Generative AI
+- Text preprocessing, TF-IDF, embeddings  
+- Transformers & Attention  
+- HuggingFace, LangChain, RAG pipelines  
+
+### 🔹 MLOps & Deployment (Foundational)
+- Docker (basics)  
+- MLflow  
+- CI/CD concepts  
+- AWS fundamentals (EC2, S3, IAM)  
+
+---
+
+## 🚀 Projects (Selected)
+
+### 🔹 LLM-based Resume Screening System
+- Built a **RAG-based pipeline** using embeddings and vector search  
+- Automated resume shortlisting with explainable outputs  
+
+### 🔹 End-to-End ML Pipeline
+- Data ingestion → preprocessing → model training → evaluation  
+- Versioned experiments with deployment-ready structure  
+
+### 🔹 NLP Text Classification Model
+- Feature engineering using TF-IDF & embeddings  
+- Evaluated using precision, recall, ROC-AUC  
+
+> 📌 Each project includes clean code, README, and clear problem statements.
+
+---
+
+## 🧠 Interview Preparation Focus
+
+- **DSA**: Arrays, Strings, Trees, Graphs, DP, Sliding Window  
+- **LeetCode**: Daily practice (medium-focused)  
+- **System Design**: OOP, scalability basics, ML system design  
+- **ML Interviews**: bias–variance tradeoff, metrics, model decisions  
+
+🎯 Target: **Industry-ready problem-solving and design thinking**
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitbankey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitbankey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitbankey&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=amitbankey&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitbankey&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amitbankey/amitbankey/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
-### 📫 How to reach me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/amitbankey)
-- 📧 Email: [amitbankey2000@gmail.com](mailto:amitbankey2000@gmail.com)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/amitbankey  
+- 📧 **Email**: amitbankey2000@gmail.com  
 
 ---
 
-### 🔖 Fun Fact
+## 🧠 Currently Working On
 
-> I love training AI models the way others love training Pokémon 🤖✨
-
----
-
-### 🧠 Currently Working On
-- Hands-on projects in *Machine Learning* and *Deep Learning*  
-- Exploring *NLP, Computer Vision*, and *Generative AI*  
-- Learning deployment with *MLOps tools (Docker, MLflow, AWS)*  
+- Advanced ML & DL concepts with hands-on projects  
+- LLM-based applications and ML system design  
+- Strengthening DSA and SQL for interviews  
 
 ---
+
+> *Focused on fundamentals today to deliver impact tomorrow.*
